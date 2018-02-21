@@ -36,4 +36,4 @@ google-api-python-client
 whitenoise==3.3.1
 brotlipy==0.7.0
 ipfsapi
-eth-utils==1.0.0b1
+eth-utils==1.0.0b2
